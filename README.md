@@ -63,9 +63,9 @@ The fully trained PyTorch weights for this project are publicly available on Hug
 ---
 ##  Application Demo
 
-![Receipt Upload & Analysis](assets/1.png)
-![Receipt Upload & Analysis](assets/2.png)
-![Receipt Upload & Analysis](assets/3.png)
+![Receipt Upload & Analysis](https://github.com/saharsahebi/AI-Receipt-Analyzer/blob/main/assets/1.PNG)
+![Receipt Upload & Analysis](https://github.com/saharsahebi/AI-Receipt-Analyzer/blob/main/assets/2.PNG)
+![Receipt Upload & Analysis](https://github.com/saharsahebi/AI-Receipt-Analyzer/blob/main/assets/3.PNG)
 
 ---
 

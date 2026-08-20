@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+torch
+torchvision
+sentence-transformers
+torch_geometric
+opencv-python
+scikit-learn
+numpy

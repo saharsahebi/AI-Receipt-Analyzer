@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# Model Weights (Already on Hugging Face)
+*.pth
+*.pt
+backend/weights/
+
+# Node/React
+frontend/node_modules/
+frontend/dist/
+.DS_Store
